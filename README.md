@@ -8,7 +8,7 @@ Get perfect shadow for the non designer image
 
 then...
 
-...
+---
 
 import  shadowizard_example } from shadowizard_example;
 
@@ -17,7 +17,7 @@ shadowizard_example({
     padding: false
 });
 
-...
+---
 
 # options
 
