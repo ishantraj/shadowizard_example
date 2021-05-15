@@ -1,0 +1,24 @@
+{
+  "name": "shadowizard-example",
+  "version": "1.0.0",
+  "description": "shadow example for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishantraj/shadowizard_example.git"
+  },
+  "keywords": [
+    "shadow",
+    "shadow-example",
+    "testing"
+  ],
+  "author": "Ishant Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishantraj/shadowizard_example/issues"
+  },
+  "homepage": "https://github.com/ishantraj/shadowizard_example#readme"
+}
